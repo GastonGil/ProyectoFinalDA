@@ -1,4 +1,2 @@
 # Proyecto Final Data Analytics
-Proyecto final para el Curso de Data Analytics en Coder House.
-Consiste en un Análisis de ventas de un Super Market en EE.UU; relacionadas con sus clientes categorizados por segmento, pedidos y productos con sus respectivas categorizaciones y datos grográficos de donde se realizaron los pedidos.
-Se realizó una extensa normalización de sus datos, primero realizada en excel, para luego llevarlos a Power BI y explotarlos.
+Este proyecto fue mi entrega final para poder aprobar el curso de Data Analytics en Coder House. Consiste en un análisis sobre las ventas de un Super Market en el lapso de tiempo desde el 2014 al 2017; relacionadas con sus clientes categorizados por segmento; pedidos por su tipo; productos por sus categorías y datos grográficos de donde se realizaron los pedidos. Contiene un archivo de Excel en donde se normalizaron los datos para luego ser analizados en Power BI, también tiene un PDF en donde esta documentada toda la información sobre el mismo.
